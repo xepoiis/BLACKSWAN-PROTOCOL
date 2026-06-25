@@ -1,4 +1,4 @@
-# Proyecto Loica: Malla de Alerta Cautiva Off-Grid
+# Black-Swan Protocol: Malla de Alerta Cautiva Off-Grid
 
 Sistema integral de alerta temprana y evacuación diseñado para comunidades rurales colindantes a zonas forestales. Este proyecto simula un ecosistema de telecomunicaciones "Zero-Install" que funciona de manera 100% independiente de la red de internet, garantizando la comunicación durante emergencias donde la infraestructura tradicional colapsa.
 
@@ -27,7 +27,7 @@ Para ejecutar este simulador en un entorno de pruebas o presentación académica
 
 ### 2. Levantar la Red Local
 1. En el equipo host, active la opción **Zona con cobertura inalámbrica móvil** (Mobile Hotspot).
-2. Configure el nombre de red (SSID) como `ALERTA_LOICA`.
+2. Configure el nombre de red (SSID) como `ALERTA`.
 
 ### 3. Ejecución
 1. Abra una terminal en el directorio del proyecto y ejecute:
@@ -39,7 +39,7 @@ Para ejecutar este simulador en un entorno de pruebas o presentación académica
     El sistema levantará el servidor web en segundo plano y arrojará la dirección IP local asignada.
 
 ### 4. Prueba de Cliente
-* Conecte un dispositivo móvil a la red Wi-Fi ALERTA_LOICA.
+* Conecte un dispositivo móvil a la red Wi-Fi ALERTA.
 * Abra el navegador web e ingrese la IP arrojada por el sistema.
 * El dispositivo mostrará la interfaz de evacuación oficial.
 
